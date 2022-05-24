@@ -1,0 +1,29 @@
+CMD: ["java","-jar","backend-0.0.1-SNAPSHOT.jar"]
+Data:
+  insercion_1:
+    html_arch: http://retoibm/sumar/:sumando01/:sumando02/resultado
+    numero_1: 9
+    numero_2: 9
+    resultado: $resultado
+  insercion_2:
+    html_arch: http://retoibm/sumar/:sumando01/:sumando02/resultado
+    numero_1: 21
+    numero_2: 3
+    resultado: $resultado
+  insercion_3:
+    html_arch: http://retoibm/sumar/:sumando01/:sumando02/resultado
+    numero_1: 30
+    numero_2: 5
+    resultado: $resultado
+  insercion_4:
+    html_arch: http://retoibm/sumar/:sumando01/:sumando02/resultado
+    numero_1: 40
+    numero_2: 1
+    resultado: $resultado
+  insercion_5:
+    html_arch: http://retoibm/sumar/:sumando01/:sumando02/resultado
+    numero_1: 11
+    numero_2: 4
+    resultado: $resultado
+
+
